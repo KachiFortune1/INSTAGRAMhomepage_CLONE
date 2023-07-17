@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/INSTAGRAMhomepage_CLONE/static/css/main.edf23c0b.css",
+    "main.js": "/INSTAGRAMhomepage_CLONE/static/js/main.a15de2e2.js",
+    "static/js/787.fe8dcec6.chunk.js": "/INSTAGRAMhomepage_CLONE/static/js/787.fe8dcec6.chunk.js",
+    "index.html": "/INSTAGRAMhomepage_CLONE/index.html",
+    "main.edf23c0b.css.map": "/INSTAGRAMhomepage_CLONE/static/css/main.edf23c0b.css.map",
+    "main.a15de2e2.js.map": "/INSTAGRAMhomepage_CLONE/static/js/main.a15de2e2.js.map",
+    "787.fe8dcec6.chunk.js.map": "/INSTAGRAMhomepage_CLONE/static/js/787.fe8dcec6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edf23c0b.css",
+    "static/js/main.a15de2e2.js"
+  ]
+}
