@@ -1,0 +1,54 @@
+
+.sidenavbar{
+    /* to keep navbar fixed when scrolling */
+    position: fixed;
+    
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    z-index: 1;
+}
+.sidenavbar_logo{
+    width: 150px;
+    margin: 25px;
+}
+/* Styling NavBar Buttons */
+.sidenavbar__button{
+    display: flex; 
+    /* to make buttons appear in rows */
+    flex-direction: row; 
+    
+
+    align-items: center;
+    color: white;
+    background: 0;
+    border: 0; 
+    margin: 5px 10px 5px 10px;
+    padding:10px 15px 10px 15px ;
+    border-radius: 15px;
+    width: 100%;
+}
+/* Add hover Effect */
+.sidenavbar__button:hover{
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0);
+}
+/* End Hover Effect Styling */
+
+/* Make Span Texts Bolder and Bigger */
+.sidenavbar__button > span{
+    font-size: 10px;
+    font-weight: bolder;
+    margin-left: 10px;
+}
+/* To keep more button fixed to the bottom of the page */
+.sidenavbar__more{
+    position: fixed;
+    bottom: 3px;
+}
+
+.sidenavbar__buttons{
+    display: flex;
+    flex-direction: column;
+}

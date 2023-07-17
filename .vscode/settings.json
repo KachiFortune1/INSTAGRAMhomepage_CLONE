@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "Sidenavbar",
+        "Suggestfriends"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:INSTAGRAM_CLONE}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
+}
